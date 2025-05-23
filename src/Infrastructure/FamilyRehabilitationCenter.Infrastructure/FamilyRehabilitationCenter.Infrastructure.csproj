@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\FamilyRehabilitationCenter.Domain\FamilyRehabilitationCenter.Domain.csproj" />
+    <ProjectReference Include="..\..\Core\FamilyRehabilitationCenter.Application\FamilyRehabilitationCenter.Application.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
